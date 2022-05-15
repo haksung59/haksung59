@@ -25,3 +25,4 @@ study </br>
 <img src="https://img.shields.io/badge/Phthon-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=FFFFFF"/>
