@@ -25,4 +25,4 @@ studying </br>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/>
 <!--<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=FFFFFF"/>-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haksung59&repo=haksung)](https://github.com/haksung59/haksung)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hak9501@gmail.com&repo=haksung)](https://github.com/haksung59/haksung)
