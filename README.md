@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-working </br>
+working(2021.09.13. ~ ) </br>
+bitflow</br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/XPlatform-2C3E50?style=flat-square&logo=XState&logoColor=FFFFFF"/>
